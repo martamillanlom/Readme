@@ -32,5 +32,8 @@ I've used this extra clases:
 * Password
 
 ## Extra information
-
+#### Colors
+#### Animations
+#### Extra tasks
+#### ...
 
