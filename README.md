@@ -37,3 +37,13 @@ I've used this extra clases:
 #### Extra tasks
 #### ...
 
+## Finished / unfinished Tasks
+- [x] Splash screen
+- [x] Bottom navigation
+- [ ] Local Storage Sqlite
+- [ ] ... 
+
+## Difficulties
+
+
+## Bibliography
