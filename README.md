@@ -1,4 +1,4 @@
-# Recycler View project
+# Readme example
 Short project description
 
 ## Tasks
